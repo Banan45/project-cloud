@@ -1,7 +1,7 @@
 Microservices Platform with Docker & Kubernetes
 
 # Steps to Run:
-1. Install Docker, Minikube, Python.
+1. Install Docker, kind, Python.
 2. Build Docker images:  
    docker build -t product-service:1.0 .
 3. Deploy to Kubernetes:  
