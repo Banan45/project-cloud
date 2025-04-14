@@ -63,12 +63,6 @@ curl http://localhost:5001/products
 
 ⸻
 
-لقطات شاشة (Screenshots)
-
-أدرجي هنا صور من Postman أو الـ Terminal مثل:
-	•	Docker build
-	•	kubectl get pods
-	•	اختبار الإضافة والعرض عبر curl أو Postman
 
 ---
 
